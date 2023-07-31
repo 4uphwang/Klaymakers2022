@@ -7,8 +7,8 @@ import Tooltip from 'react-bootstrap/Tooltip';
 import dotenv from "dotenv";
 dotenv.config();
 
-const ACCESS_KEY_ID = 'KASKAJLEGBNU55WU19J9KWT9';
-const SECTET_ACCESS_KEY = 'u5xCeiRKPTKaZ75ZegKBxmIZ6VyZmIJQ92-0-DFb';
+const ACCESS_KEY_ID = '';
+const SECTET_ACCESS_KEY = '';
 const chainid = '1001';
 const option = {
   headers : [
